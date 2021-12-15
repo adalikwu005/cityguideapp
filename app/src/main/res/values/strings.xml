@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="powered_by">Powered By Adalikwu Michael</string>
+    <string name="todo">TODO</string>
+
+
+    <!-- Strings for on Boarding Screen -->
+
+    <!-- Titles -->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make a Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+    <string name="fifth_slide_title">Check Out New Features</string>
+
+    <!-- Descriptions -->
+    <string name="first_slide_desc">You can search any place nearby or within the specified city. We will display specific or all related location.</string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add you place</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you don\'t have to worry, we got your back</string>
+    <string name="fifth_slide_desc">Check out our new features of amazing facts about this app. Its more than just a city guide</string>
+
+    <!-- Buttons -->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <!-- Strings for Dashboard -->
+
+    <!-- Categories -->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="education">Education</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+
+    <!-- Titles and Descriptions -->
+    <string name="featured_locations">All Featured Locations</string>
+    <string name="featured_locations_descriptions">All the locations that are featured and have the top demand in town!</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+
+
+    <!-- Drawer layout Strings -->
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="car_rent">Car Rent</string>
+    <string name="expand_all">Expand All</string>
+    <string name="categories_shops">Shops</string>
+    <string name="retailer_heading">Grow\nYour Business</string>
+    <string name="retailer_tag_line">We will help you to grow your business using online services</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="how_we_work">How we Work</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="password">Password</string>
+
+
+    <string name="otp_code_text">Co\nde</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time password sent on +2348162911484</string>
+    <string name="forget_password_detail">Provide your account\'s email for which you want to reset your password</string>
+    <string name="make_selection">Make\nSelection</string>
+    <string name="make_selection_details">Select which contact detail should we use to reset your password</string>
+    <string name="via_sms">Via sms</string>
+    <string name="via_e_mail">Via E-mail</string>
+    <string name="new_credentials">New\nCredentials</string>
+    <string name="new_credentials_details">Your identity has been verified\nSet your new password</string>
+    <string name="password_updated_success_message">your password has been updated!</string>
+
+
+</resources>
